@@ -1,4 +1,4 @@
-# ZenTask - Your Personal Task Manager
+# RatulTask - Your Personal Task Manager
 
 A beautiful and minimalist todo application with a modern gradient UI and smooth animations. Keep track of your tasks with style!
 
